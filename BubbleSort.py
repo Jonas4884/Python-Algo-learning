@@ -1,4 +1,4 @@
-numbers = [2,3,45,8,56,5,6,5,2,0,2,1,6,2,3]
+##numbers = [2,3,45,8,56,5,6,5,2,0,2,1,6,2,3] (remove comment if you want this)
 
 ## This is my first code on python
 # Based on Selection Sort
